@@ -1,0 +1,21 @@
+{
+  "name": "desi-viral-video",
+  "version": "1.0.0",
+  "description": "Desi Viral Video - Trending Desi Clips and Viral Updates",
+  "private": true,
+  "scripts": {
+    "dev": "npx serve .",
+    "start": "npx serve .",
+    "lint": "echo 'No linter configured for static HTML project'"
+  },
+  "keywords": [
+    "viral",
+    "video",
+    "desi"
+  ],
+  "author": "Desi Viral Video",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "@vercel/speed-insights": "^1.0.0"
+  }
+}
